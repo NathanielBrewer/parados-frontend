@@ -1,6 +1,6 @@
 {
-  "short_name": "Parados",
-  "name": "Parados App",
+  "short_name": "Example Frontend",
+  "name": "Example React Axios Frontent App",
   "icons": [
   ],
   "start_url": ".",

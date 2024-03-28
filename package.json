@@ -1,8 +1,13 @@
 {
-  "name": "temp-app",
-  "version": "0.1.0",
+  "name": "example-frontend",
+  "version": "0.1.1",
   "private": true,
-  "homepage": "https://NathanielBrewer.github.io/parados-frontend",
+  "description": "",
+  "homepage": "https://NathanielBrewer.github.io/example-react-axios-frontend",
+  "author": {
+    "name": "Nathaniel C. Brewer",
+    "email": "nathanielc.brewer@gmail.com"
+  },
   "dependencies": {
     "axios": "^1.6.7",
     "react": "^18.2.0",
